@@ -1,3 +1,9 @@
 /*
   Custom styles for Trackster App
 */
+
+/* General styling */
+
+html {
+  font-size: 16px;
+}

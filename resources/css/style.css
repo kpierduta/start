@@ -7,3 +7,44 @@
 html {
   font-size: 16px;
 }
+
+/* Header */
+
+.header {
+  background-color: rgb(35, 2, 63);
+  padding: 2.75rem 0;
+}
+
+.header h1 {
+  font-family: "Righteous", cursive;
+  font-size: 2.5rem;
+  color: #ff00ab;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#search-input {
+  border-radius: 19px;
+  margin-right: .625rem;
+}
+
+#search-button {
+  background-color: #ff00ab;
+  color: #22013f;
+  border-radius: 19px;
+  text-align: center;
+  padding: .5rem;
+}
+
+#search-button:hover {
+  background-color: #ff66cc;
+  cursor: pointer;
+}
+
+/* Menu */
+
+.menu {
+  background-color: rgb(104, 0, 255);
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
